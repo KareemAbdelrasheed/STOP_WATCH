@@ -1,0 +1,11 @@
+# FIXED
+
+MCAL/EXTI/EXTI.obj: ../MCAL/EXTI/EXTI.c
+MCAL/EXTI/EXTI.obj: ../MCAL/EXTI/../../LIB/STD_TYPES.h
+MCAL/EXTI/EXTI.obj: ../MCAL/EXTI/../../LIB/tm4c123gh6pm.h
+MCAL/EXTI/EXTI.obj: ../MCAL/EXTI/EXTI.h
+
+../MCAL/EXTI/EXTI.c: 
+../MCAL/EXTI/../../LIB/STD_TYPES.h: 
+../MCAL/EXTI/../../LIB/tm4c123gh6pm.h: 
+../MCAL/EXTI/EXTI.h: 
